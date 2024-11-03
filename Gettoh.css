@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0.5cm;
+    background-color: white;
+}
+.logo{
+    font-size: 70px;
+    font-weight: 800;
+    margin-left: 11cm;
+    font-family: fantasy;
+    box-shadow: 5px;
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+ul li a:hover{
+    color: rgb(48, 102, 48);
+}
+.search{
+    width: 330px;
+    float: none;
+    margin-left: 4cm;
+}
+.srch{
+    font-family: monospace;
+    width: 800px;
+    height: 30px;
+    background: transparent;
+    border: 3px solid black;
+    color: black;
+    font-size: 22px;
+    float: none;
+    padding: 10px;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+.btn{
+    width: 200px;
+    height: 50px;
+    background:none ;
+    color: darkturquoise;
+    font-size: 27px;
+    border-radius: 15px;
+    margin-left: 8cm;
+    font-family: monospace;
+    border: 3px solid black;
+}
