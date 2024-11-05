@@ -6,7 +6,7 @@
 .logo{
     font-size: 70px;
     font-weight: 800;
-    margin-left: 10cm;
+    margin-left: 11cm;
     font-family: fantasy;
     box-shadow: 5px;
 }
@@ -21,16 +21,16 @@ ul li a:hover{
 .search{
     width: 330px;
     float: none;
-    margin-left: 4cm;
+    margin-left: 5cm;
 }
 .srch{
     font-family: monospace;
     width: 800px;
     height: 30px;
     background: transparent;
-    border: 3px solid black;
+    border: 7px solid black;
     color: black;
-    font-size: 22px;
+    font-size: 35px;
     float: none;
     padding: 10px;
     border-radius: 10px;
@@ -46,4 +46,10 @@ ul li a:hover{
     margin-left: 8cm;
     font-family: monospace;
     border: 3px solid black;
+}
+.footer{
+    background-color: rgb(94, 94, 240);
+    font-size: 43px;
+    padding: 10px;
+    border-radius: 15px;
 }
